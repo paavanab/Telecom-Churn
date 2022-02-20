@@ -1,4 +1,4 @@
-# Telecom-Churn
+# Telecom-Churn Logistic Regression/Random Forest/XGBoost
 A Project to predict telecom service churn customers. 
 We built multiple models in logistic regression, random forest and xg boost with and without dimensionality reduction.
 After considering Accuracy, Recall and Precision Balance the final model selected is XGB Hypertuned model on dimension reduced PCA data with SMOTE
